@@ -18,7 +18,6 @@ In the terminal, execute the following command to send **four ICMP Echo Requests
 
 ```
 ping -c 4 google.com
-
 ```
 ### Filter and Observe ICMP Packets in Wireshark
 
